@@ -1,0 +1,5 @@
+body{text-align:center;background-color:lightgreen;}
+h1{font-size:80px; color:darkblue;}
+h2{font-size:60px; color:darkblue}
+#album{width:450px; border-style:solid; border-radius:20px; padding:5px; border-color:black;}
+p{font-size:45px;}
